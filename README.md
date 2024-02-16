@@ -16,4 +16,4 @@ npm install
 # Start the development server
 npm run dev
 ```
-![Screenshot_2](https://github.com/tahircivann/Typing-Game-R3F/assets/69795597/ea895071-102e-4fe5-afa1-303845082098)
+![Screenshot_2](https://github.com/tahircivann/Typing-Game-R3F/assets/69795597/05952eb2-9fc6-4efc-a0dc-65161fd79c94)
